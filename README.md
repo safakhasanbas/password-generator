@@ -18,4 +18,4 @@ This project is a password generator application built using React.js. Users can
   - Icons [React Icons](https://react-icons.github.io/react-icons/)
 ## Demo
 
-https://password-generator-vercel.app/
+https://password-gen-lake-five.vercel.app
